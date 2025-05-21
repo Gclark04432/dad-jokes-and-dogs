@@ -1,0 +1,17 @@
+.container {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    border: 1px solid goldenrod;
+}
+
+.container h4 {
+    text-align: center;
+}
+
+.container img {
+    aspect-ratio: 16/9;
+}
