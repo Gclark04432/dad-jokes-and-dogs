@@ -1,10 +1,10 @@
 {
-  "name": "Hello Extensions of the World!",
-  "description": "Base Level Extension",
+  "name": "Dad Jokes & Dogs",
+  "description": "A simple extension that fetches a random dad joke and dog pic to brighten your day",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
     "default_popup": "index.html",
-    "default_icon": "hello_extensions.png"
+    "default_icon": "dj&dIcon.png"
   }
 }
