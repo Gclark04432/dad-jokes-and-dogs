@@ -9,7 +9,6 @@ try {
 
     const json = await response.json();
     document.getElementById('dog-pic')['src'] = json.message
-    console.log(json);
   } catch (error) {
     console.error(error.message);
   }
